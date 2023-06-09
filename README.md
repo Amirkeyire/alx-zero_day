@@ -1,1 +1,1 @@
-My first readme and alx git 03 project
+This file is mandatory in projects
